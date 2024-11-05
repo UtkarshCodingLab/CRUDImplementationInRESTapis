@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\controllers\\categoryapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\controllers\\categoryapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\models\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\models\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\models\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\models\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\models\\dto\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\models\\dto\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\models\\dto\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\models\\dto\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\migrations\\20240917085659_addvalidationincategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\migrations\\20240917085659_addvalidationincategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\migrations\\20240917061823_seedcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\migrations\\20240917061823_seedcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\migrations\\20240920041311_seedproducttabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\migrations\\20240920041311_seedproducttabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|c:\\users\\utkarsh.jain\\source\\repos\\ecom_api\\ecomwebapi\\migrations\\20240920040350_addproducttabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C92B3E-9E2C-4ADA-95BB-2420DA02754C}|EComWebAPI\\EComWebAPI.csproj|solutionrelative:ecomwebapi\\migrations\\20240920040350_addproducttabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "EComWebAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAUwCUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:14:14.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Controllers\\CategoryAPIController.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Controllers\\CategoryAPIController.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Controllers\\CategoryAPIController.cs",
+              "RelativeToolTip": "EComWebAPI\\Controllers\\CategoryAPIController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwLMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:19:40.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "EComWebAPI\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:56:45.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "EComWebAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:05:11.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\Repository.cs",
+              "RelativeToolTip": "EComWebAPI\\Repository\\Repository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:42:33.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EComWebAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:03:33.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Program.cs",
+              "RelativeToolTip": "EComWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:13:14.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\MappingConfig.cs",
+              "RelativeToolTip": "EComWebAPI\\MappingConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:10:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EComWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\appsettings.json",
+              "RelativeToolTip": "EComWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T03:15:55.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "EComWebAPI\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:09:22.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "EComWebAPI\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:35:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "EComWebAPI\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:04:44.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "EComWebAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:02:23.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Category.cs",
+              "RelativeToolTip": "EComWebAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:21:35.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\ProductUpdateDTO.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Models\\Dto\\ProductUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\ProductUpdateDTO.cs",
+              "RelativeToolTip": "EComWebAPI\\Models\\Dto\\ProductUpdateDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:55:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Models\\Dto\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\ProductDTO.cs",
+              "RelativeToolTip": "EComWebAPI\\Models\\Dto\\ProductDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:53:38.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Models\\Dto\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\ProductCreateDTO.cs",
+              "RelativeToolTip": "EComWebAPI\\Models\\Dto\\ProductCreateDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:54:35.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\CategoryUpdateDTO.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Models\\Dto\\CategoryUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\CategoryUpdateDTO.cs",
+              "RelativeToolTip": "EComWebAPI\\Models\\Dto\\CategoryUpdateDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:08:25.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Models\\Dto\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\CategoryDTO.cs",
+              "RelativeToolTip": "EComWebAPI\\Models\\Dto\\CategoryDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:58:30.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\CategoryCreateDTO.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Models\\Dto\\CategoryCreateDTO.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Models\\Dto\\CategoryCreateDTO.cs",
+              "RelativeToolTip": "EComWebAPI\\Models\\Dto\\CategoryCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:02:21.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240920041311_SeedProductTableToDb.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Migrations\\20240920041311_SeedProductTableToDb.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Migrations\\20240920041311_SeedProductTableToDb.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Migrations\\20240920041311_SeedProductTableToDb.cs",
+              "RelativeToolTip": "EComWebAPI\\Migrations\\20240920041311_SeedProductTableToDb.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:13:11.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240920040350_AddProductTableToDb.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Migrations\\20240920040350_AddProductTableToDb.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Migrations\\20240920040350_AddProductTableToDb.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Migrations\\20240920040350_AddProductTableToDb.cs",
+              "RelativeToolTip": "EComWebAPI\\Migrations\\20240920040350_AddProductTableToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:03:50.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EComWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EComWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABMAAAAAAAAAAABRwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T13:24:55.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240917085659_AddValidationInCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Migrations\\20240917085659_AddValidationInCategoryTable.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Migrations\\20240917085659_AddValidationInCategoryTable.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Migrations\\20240917085659_AddValidationInCategoryTable.cs",
+              "RelativeToolTip": "EComWebAPI\\Migrations\\20240917085659_AddValidationInCategoryTable.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:56:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240917061823_SeedCategoryTableToDb.cs",
+              "DocumentMoniker": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Migrations\\20240917061823_SeedCategoryTableToDb.cs",
+              "RelativeDocumentMoniker": "EComWebAPI\\Migrations\\20240917061823_SeedCategoryTableToDb.cs",
+              "ToolTip": "C:\\Users\\utkarsh.jain\\source\\repos\\ECom_API\\EComWebAPI\\Migrations\\20240917061823_SeedCategoryTableToDb.cs",
+              "RelativeToolTip": "EComWebAPI\\Migrations\\20240917061823_SeedCategoryTableToDb.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:18:23.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

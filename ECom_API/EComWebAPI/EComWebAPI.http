@@ -1,0 +1,6 @@
+@EComWebAPI_HostAddress = http://localhost:5218
+
+GET {{EComWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
